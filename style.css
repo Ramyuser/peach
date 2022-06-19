@@ -1,0 +1,29 @@
+    .heading {
+        width: 100%;
+        margin: 0px;
+        font-size: 25px;
+    }
+    
+    .note {
+        font-size: 16px;
+        color: rgb(0, 0, 0);
+    }
+    
+    .div_speed {
+        font-size: 43px;
+        margin: 15px;
+    }
+    
+    body {
+        background-size: cover;
+    }
+    
+    #song {
+        width: 200px;
+        font-size: 25px;
+    }
+    
+    canvas {
+        border: 5px solid white;
+        border-radius: 20px;
+    }
